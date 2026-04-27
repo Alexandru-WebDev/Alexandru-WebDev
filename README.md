@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey%2C%20I'm%20Alex%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=WordPress%20Plugin%20Developer%20%E2%80%A2%20Backend%20Web%20Dev%20%E2%80%A2%20Romania%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%86%92%20Germany%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=62&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hey%2C%20I'm%20Alex%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Web%20Developer%20%E2%80%A2%20Based%20in%20Germany%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=62&descSize=18&descColor=a78bfa"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=WordPress+Plugin+Developer+%F0%9F%94%A7;Backend+Web+Developer+%F0%9F%96%A5%EF%B8%8F;PHP+%26+MySQL+Enthusiast+%E2%9A%A1;Building+Custom+WordPress+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Backend+Web+Developer+%F0%9F%96%A5%EF%B8%8F;WordPress+%26+Plugin+Developer+%F0%9F%94%A7;PHP+%26+MySQL+Enthusiast+%E2%9A%A1;Building+Custom+Web+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-WordPress%20Plugin%20Dev-7c3aed?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Web%20Dev-7c3aed?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Based%20in-Germany%20%F0%9F%87%A9%F0%9F%87%AA-302B63?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/From-Romania%20%F0%9F%87%B7%F0%9F%87%B4-302B63?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Open%20To-Freelance-a78bfa?style=for-the-badge&labelColor=0D1117"/>
@@ -19,30 +19,18 @@
 
 <h2 align="center">⚡ About Me</h2>
 
-<table align="center" border="0" cellpadding="10">
+<table align="center" border="0" cellpadding="12">
   <tr>
-    <td>
-      <img src="https://img.icons8.com/fluency/28/wordpress.png"/> &nbsp; Building custom WordPress plugins from scratch
-    </td>
-    <td>
-      <img src="https://img.icons8.com/fluency/28/code.png"/> &nbsp; Backend-first developer — logic over visuals
-    </td>
+    <td>🔧 &nbsp; Building custom WordPress plugins from scratch</td>
+    <td>🖥️ &nbsp; Backend-first developer — logic over visuals</td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.icons8.com/fluency/28/php-logo.png"/> &nbsp; PHP & MySQL at the core of everything I build
-    </td>
-    <td>
-      <img src="https://img.icons8.com/fluency/28/internet.png"/> &nbsp; Full websites built clean, fast & scalable
-    </td>
+    <td>🐘 &nbsp; PHP & MySQL at the core of everything I build</td>
+    <td>🌐 &nbsp; Full websites built clean, fast & scalable</td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.icons8.com/fluency/28/api-settings.png"/> &nbsp; WordPress REST API, Hooks & Filters
-    </td>
-    <td>
-      <img src="https://img.icons8.com/fluency/28/coffee-to-go.png"/> &nbsp; Powered by coffee & clean architecture ☕
-    </td>
+    <td>⚡ &nbsp; WordPress REST API, Hooks & Filters</td>
+    <td>☕ &nbsp; Powered by coffee & clean architecture</td>
   </tr>
 </table>
 
@@ -82,14 +70,6 @@
 
 ---
 
-<h2 align="center">🏆 Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SirAlex-WebDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
@@ -97,12 +77,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:alexandru.parosu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23a78bfa.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
   </a>
 </p>
 
