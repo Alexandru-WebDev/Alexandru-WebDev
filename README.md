@@ -92,7 +92,7 @@ class Alex extends Developer {
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SirAlex-WebDev">
+  <a href="https://www.linkedin.com/in/george-alexandru-parosu-9b8729406">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
   </a>
   &nbsp;
