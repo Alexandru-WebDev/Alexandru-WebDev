@@ -41,12 +41,12 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
   &nbsp;
   <img height="175" src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut-vertical&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut-vertical&langs_count=8&cache_seconds=86400"/>
 </p>
 
 ---
