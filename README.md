@@ -46,14 +46,14 @@
   <img height="175" src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut-vertical&langs_count=8&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut&langs_count=8&cache_seconds=86400"/>
 </p>
 
 ---
 
 <h2 align="center">Contribution Graph</h2>
 <p align="center">
-  <img src="https://ghchart.rshah.org/a78bfa/Alexandru-WebDev" alt="Alexandru-WebDev's GitHub contribution chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandru-WebDev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=a78bfa&point=ffffff&area=true" alt="Alexandru-WebDev's GitHub contribution graph" />
 </p>
 
 ---
