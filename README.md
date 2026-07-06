@@ -41,12 +41,14 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
+  <img height="175" src="https://github-stats-alpha.vercel.app/api?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
   &nbsp;
   <img height="175" src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru-WebDev&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&layout=donut&langs_count=8&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexandru-WebDev&theme=tokyonight"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexandru-WebDev&theme=tokyonight"/>
 </p>
 
 ---
