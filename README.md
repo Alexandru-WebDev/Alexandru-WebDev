@@ -53,7 +53,7 @@
 
 <h2 align="center">Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandru-WebDev&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&hide_border=true&radius=16&area_color=302B63" />
+  <img src="https://ghchart.rshah.org/a78bfa/Alexandru-WebDev" alt="Alexandru-WebDev's GitHub contribution chart" />
 </p>
 
 ---
