@@ -19,7 +19,7 @@ PHP and MySQL are my daily tools. I use them to ship full websites that stay fas
 
 ## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexandru-WebDev&show_icons=true&count_private=true&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&show_icons=true&count_private=true&hide_border=true"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&hide_border=true"/>
 </p>
 
