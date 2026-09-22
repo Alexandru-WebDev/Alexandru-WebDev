@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
-  Backend Web Developer, living in Germany, originally from Romania.
+  Backend web developer based in Germany, originally from Romania.
 </p>
 
 <p align="center">
@@ -12,11 +12,15 @@
 
 ## About Me
 
-I build custom WordPress plugins from scratch — no page builders, no shortcuts. Backend is where I live. Visuals matter, but logic runs the show.
+I work mainly with WordPress, PHP and MySQL, with a strong focus on backend development.
 
-PHP and MySQL are my daily tools. I use them to build full websites that stay fast and reliable under real traffic, not just demos.
+A lot of my work involves custom WordPress plugins, backend functionality, REST APIs, hooks, filters and database-related work.
 
-REST APIs, WordPress hooks, filters, custom plugins, database logic and server-side development are the parts I enjoy the most.
+I also work with JavaScript when needed and spend time with Linux servers, Apache, Docker and Cloudflare.
+
+Right now I am also getting more into Python and AI. I want to build more automation tools, work with APIs and experiment with local and cloud based AI models.
+
+I enjoy building things myself and understanding how they work behind the scenes instead of relying on page builders for everything.
 
 ## Tech Stack
 
@@ -53,12 +57,21 @@ REST APIs, WordPress hooks, filters, custom plugins, database logic and server-s
   <img src="https://skillicons.dev/icons?i=vscode" width="30" /> VS Code
 </p>
 
+## Currently Learning
+
+- Python
+- AI integrations
+- Working with LLM APIs
+- Local AI models
+- Automation with Python
+- Improving my Docker and Linux knowledge
+
 ## GitHub Stats
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-qs5e8efhm-namiz.vercel.app/api?username=Alexandru-WebDev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&show_icons=true&hide_border=true&theme=tokyonight"
   />
 
   <img
