@@ -73,7 +73,6 @@ I enjoy building things myself and understanding how they work behind the scenes
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=Alexandru-WebDev&show_icons=true&hide_border=true&theme=tokyonight"
   />
-
   <img
     height="165"
     src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&hide_border=true&theme=tokyonight"
