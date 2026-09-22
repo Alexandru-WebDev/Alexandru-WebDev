@@ -55,15 +55,6 @@ I like learning by building things and figuring out how they work behind the sce
 
 </div>
 
-## Activity
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandru-WebDev&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
-</div>
-
 ## Contact
 
 LinkedIn: [George Alexandru Parosu](https://www.linkedin.com/in/george-alexandru-parosu-9b8729406/)
