@@ -41,17 +41,29 @@ I like learning by building things and figuring out how they work behind the sce
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats-git-main-namiz.vercel.app/api?username=Alexandru-WebDev&show_icons=true&hide_border=true&theme=tokyonight"
-  />
+<div align="center">
 
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&hide_border=true&theme=tokyonight"
-  />
-</p>
+<img
+  height="165"
+  src="https://github-readme-stats-git-main-namiz.vercel.app/api?username=Alexandru-WebDev&show_icons=true&hide_border=true&theme=tokyonight"
+/>
+
+<img
+  height="165"
+  src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&hide_border=true&theme=tokyonight"
+/>
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandru-WebDev&theme=tokyo-night&hide_border=true"
+/>
+
+</div>
 
 ## Contact
 
