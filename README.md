@@ -1,96 +1,60 @@
-<h1 align="center">Hi, I'm Alex 👋</h1>
+# Hi, I'm Alex 👋
 
-<p align="center">
-  Backend web developer based in Germany, originally from Romania.
-</p>
+I'm a backend web developer based in Germany, originally from Romania.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Web%20Dev-7c3aed" />
-  <img src="https://img.shields.io/badge/Based%20in-Germany-302B63" />
-  <img src="https://img.shields.io/badge/From-Romania-302B63" />
-</p>
+I mainly work with WordPress, PHP and MySQL. Most of my work involves custom plugins, backend functionality, APIs and database-related development.
 
-## About Me
+Recently I've been spending more time with Python and AI. I'm especially interested in automation, LLM APIs, local models and building useful tools around them.
 
-I work mainly with WordPress, PHP and MySQL, with a strong focus on backend development.
+## What I work with
 
-A lot of my work involves custom WordPress plugins, backend functionality, REST APIs, hooks, filters and database-related work.
+**Backend**
 
-I also work with JavaScript when needed and spend time with Linux servers, Apache, Docker and Cloudflare.
+PHP, WordPress, MySQL, REST APIs
 
-Right now I am also getting more into Python and AI. I want to build more automation tools, work with APIs and experiment with local and cloud based AI models.
+**Frontend**
 
-I enjoy building things myself and understanding how they work behind the scenes instead of relying on page builders for everything.
+HTML, CSS, JavaScript
 
-## Tech Stack
+**Servers & Infrastructure**
 
-### Backend & CMS
+Linux, Apache, Docker, Cloudflare
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php" width="30" /> PHP &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=wordpress" width="30" /> WordPress &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL
-</p>
+**Tools**
 
-### Frontend
+Git, GitHub, VS Code
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="30" /> CSS &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="30" /> JavaScript
-</p>
+## What I'm learning right now
 
-### DevOps & Server
+I'm currently focusing more on Python and AI development.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" width="30" /> Linux &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=apache" width="30" /> Apache &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="30" /> Cloudflare
-</p>
+Some of the areas I'm experimenting with:
 
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="30" /> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="30" /> GitHub &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="30" /> VS Code
-</p>
-
-## Currently Learning
-
-- Python
-- AI integrations
-- Working with LLM APIs
+- Python automation
+- LLM APIs
 - Local AI models
-- Automation with Python
-- Improving my Docker and Linux knowledge
+- AI integrations
+- Building tools around AI models
+- Docker and Linux
+
+I like learning by building things and figuring out how they work behind the scenes.
 
 ## GitHub Stats
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-git-main-namiz.vercel.app/api?username=Alexandru-WebDev"
+    src="https://github-readme-stats-git-main-namiz.vercel.app/api?username=Alexandru-WebDev&show_icons=true&hide_border=true&theme=tokyonight"
   />
+
   <img
     height="165"
     src="https://streak-stats.demolab.com/?user=Alexandru-WebDev&hide_border=true&theme=tokyonight"
   />
 </p>
 
-## Let's Connect
+## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/george-alexandru-parosu-9b8729406/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+LinkedIn: [George Alexandru Parosu](https://www.linkedin.com/in/george-alexandru-parosu-9b8729406/)
 
-  <a href="mailto:alexandru.parosu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alexandru-WebDev&label=Profile+Views&color=7c3aed" />
-</p>
+Email: [alexandru.parosu@gmail.com](mailto:alexandru.parosu@gmail.com)
